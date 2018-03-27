@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Python-set集合总结(三)
+title: Python-数据类型-集合(Set)
 categories: Python语法
-description: Python基础知识点总结(三)
+description: Python-数据类型-集合(Set)
 keywords: Python语法
 ---
 
